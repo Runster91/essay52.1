@@ -23,3 +23,5 @@ node_modules/
 CÓDIGOS DE RESPUESTA EN SERVER
 
 5841 - Usuario no se encuentra en base de datos.
+
+![diagram](diagram.png)
