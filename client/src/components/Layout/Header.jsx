@@ -2,17 +2,12 @@
 
 function Header() {
     return <div>
-         <img class="rebike" src="reve2.jpg" alt="Revelogo"/>
-        <ul class="menu">
-            <li>Signup</li>
-            |
-            <li>Bikes</li>
-            |
-            <li>Login</li>
-            
-        </ul>
+      
+     
+  <h1>Bikestop</h1>
+  
 
-    </div>
+  </div>
   }
   
   export default Header
